@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Метод релаксации", "Метод релаксации.pyproj", "{722B28D3-A4A2-488A-96E6-C2AC7C5E0A62}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{722B28D3-A4A2-488A-96E6-C2AC7C5E0A62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{722B28D3-A4A2-488A-96E6-C2AC7C5E0A62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {480C4DF4-2B9A-40B1-A2B3-8F23620ADC18}
+	EndGlobalSection
+EndGlobal
